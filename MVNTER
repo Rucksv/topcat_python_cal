@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.filtration -DartifactId=FiltrationProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
