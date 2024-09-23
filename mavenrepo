@@ -1,0 +1,6 @@
+<repositories>
+    <repository>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/username/repository</url>
+    </repository>
+</repositories>
